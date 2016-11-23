@@ -366,4 +366,4 @@ Please note that it is not encouraged to blindly apply to every company on this 
 
 
 ##
-**follow:** [easy-application](https://github.com/j-delaney/easy-application)
+**share:** [easy-application](https://github.com/j-delaney/easy-application)
