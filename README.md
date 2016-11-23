@@ -364,4 +364,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
 | [Zynga](https://www.zynga.com/careers) |  |
 
-follow：https://github.com/j-delaney/easy-application
+
+##follow
+* [easy-application](https://github.com/j-delaney/easy-application)
