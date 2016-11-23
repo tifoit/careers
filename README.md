@@ -365,5 +365,5 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Zynga](https://www.zynga.com/careers) |  |
 
 
-#share
-* follow:[easy-application](https://github.com/j-delaney/easy-application)
+##
+**follow:** [easy-application](https://github.com/j-delaney/easy-application)
